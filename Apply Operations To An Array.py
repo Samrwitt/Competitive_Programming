@@ -1,3 +1,5 @@
+from typing import List
+
 class Solution:
     def applyOperations(self, nums: List[int]) -> List[int]:
         i = 0
@@ -12,3 +14,4 @@ class Solution:
         result += [0] * (len(nums) - len(result))
         
         return result
+    
