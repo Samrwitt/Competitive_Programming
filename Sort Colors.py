@@ -1,3 +1,4 @@
+from typing import List
 class Solution:
     def sortColors(self, nums: List[int]) -> None:
       left, right = 0, len(nums) - 1
