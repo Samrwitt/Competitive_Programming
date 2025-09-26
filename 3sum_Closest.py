@@ -14,6 +14,7 @@ public:
                     closestSum = currentSum;
                 }
 
+
                 if (currentSum < target) {
                     left++;
                 } else if (currentSum > target) {
