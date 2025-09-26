@@ -8,7 +8,7 @@ import sys
 
 
 def countSwaps(a):
-    # Write your code here
+    
     num_swaps = 0
     n = len(a)
     for i in range(n):
