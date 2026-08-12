@@ -9,4 +9,17 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Samrwitt/Competitive_Programming/tree/master/0001-two-sum) |
+| [2427-first-letter-to-appear-twice](https://github.com/Samrwitt/Competitive_Programming/tree/master/2427-first-letter-to-appear-twice) |
+## String
+|  |
+| ------- |
+| [2427-first-letter-to-appear-twice](https://github.com/Samrwitt/Competitive_Programming/tree/master/2427-first-letter-to-appear-twice) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2427-first-letter-to-appear-twice](https://github.com/Samrwitt/Competitive_Programming/tree/master/2427-first-letter-to-appear-twice) |
+## Counting
+|  |
+| ------- |
+| [2427-first-letter-to-appear-twice](https://github.com/Samrwitt/Competitive_Programming/tree/master/2427-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
