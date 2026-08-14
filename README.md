@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Samrwitt/Competitive_Programming/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/Samrwitt/Competitive_Programming/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Samrwitt/Competitive_Programming/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/Samrwitt/Competitive_Programming/tree/master/0500-keyboard-row) |
 | [2427-first-letter-to-appear-twice](https://github.com/Samrwitt/Competitive_Programming/tree/master/2427-first-letter-to-appear-twice) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Samrwitt/Competitive_Programming/tree/master/0242-valid-anagram) |
 | [0500-keyboard-row](https://github.com/Samrwitt/Competitive_Programming/tree/master/0500-keyboard-row) |
 | [2427-first-letter-to-appear-twice](https://github.com/Samrwitt/Competitive_Programming/tree/master/2427-first-letter-to-appear-twice) |
 ## Bit Manipulation
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Samrwitt/Competitive_Programming/tree/master/0242-valid-anagram) |
 | [2561-number-of-distinct-averages](https://github.com/Samrwitt/Competitive_Programming/tree/master/2561-number-of-distinct-averages) |
 ## Enumeration
 |  |
